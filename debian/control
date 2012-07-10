@@ -1,0 +1,14 @@
+Source: python-smartjog-common
+XS-Python-Version: >= 2.6
+Priority: optional
+Section: python
+Maintainer: Matthieu Bouron <matthieu.bouron@smartjog.com>
+Build-Depends: cdbs (>= 0.4.89), debhelper (>= 8), python-central (>= 0.6.0)
+Standards-Version: 3.9.2
+
+Package: python-smartjog-common
+XB-Python-Version: ${python:Versions}
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: SmartJog common module
+ module containing related smartjog modules and utils

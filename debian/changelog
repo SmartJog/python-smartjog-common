@@ -1,0 +1,5 @@
+python-smartjog-common (0.1.0-1) unstable; urgency=low
+
+  * Initial release, closes: #6051.
+
+ -- Matthieu Bouron <matthieu.bouron@smartjog.com>  Tue, 10 Jul 2012 14:20:51 +0200
